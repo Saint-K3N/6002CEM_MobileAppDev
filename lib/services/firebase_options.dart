@@ -32,8 +32,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBzvR-ykbLM5kJeTQAT_5NOAqBcXgSBnHQ',
-    appId: '1:841100323234:web:42d36902df34236ed4d43b',
+    apiKey: 'PUT-YOUR-OWN-API-KEY',
+    appId: 'PUT-YOUR-OWN-API-ID',
     messagingSenderId: '841100323234',
     projectId: 'meal-planner-61809',
     authDomain: 'meal-planner-61809.firebaseapp.com',
@@ -41,16 +41,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBzvR-ykbLM5kJeTQAT_5NOAqBcXgSBnHQ',
-    appId: '1:841100323234:android:42d36902df34236ed4d43b',
+    apiKey: 'PUT-YOUR-OWN-API-KEY',
+    appId: 'PUT-YOUR-OWN-API-KEY',
     messagingSenderId: '841100323234',
     projectId: 'meal-planner-61809',
     storageBucket: 'meal-planner-61809.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC8n8vKgcKf-mFUjXqHLgUAE6cj8T6Fy5k',
-    appId: '1:841100323234:ios:42d36902df34236ed4d43b',
+    apiKey: 'PUT-YOUR-OWN-API-KEY',
+    appId: 'PUT-YOUR-OWN-API-KEY',
     messagingSenderId: '841100323234',
     projectId: 'meal-planner-61809',
     storageBucket: 'meal-planner-61809.appspot.com',
@@ -58,8 +58,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC8n8vKgcKf-mFUjXqHLgUAE6cj8T6Fy5k',
-    appId: '1:841100323234:macos:42d36902df34236ed4d43b',
+    apiKey: 'PUT-YOUR-OWN-API-KEY',
+    appId: 'PUT-YOUR-OWN-API-KEY',
     messagingSenderId: '841100323234',
     projectId: 'meal-planner-61809',
     storageBucket: 'meal-planner-61809.appspot.com',
